@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/clipboard-landing-page](https://www.frontendmentor.io/solutions/clipboard-landing-page)
+- Solution URL: [frontendmentor.io/solutions/clipboard-landing-page](https://www.frontendmentor.io/solutions/clipboard-landing-page-M0vU9rdajT)
 - Live Site URL: [abulhashim.github.io/Clipboard-Landing-Page](https://abulhashim.github.io/Clipboard-Landing-Page/)
 
 ## My process
